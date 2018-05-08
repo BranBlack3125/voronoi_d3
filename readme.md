@@ -38,7 +38,7 @@ Due to the self-contained nature of the randomly-created point dataset used in t
 - css
   - Due to its stand-alone character, there is no css accompanying this tool.
 
-## 4\. More Examples of Similar Geovisualizations
+## 4\. Additional Examples of Similar Geovisualizations
 
 Rotating Voronoi: [link](https://bl.ocks.org/mbostock/4636377), created by Mike Bostock and inspired by work done by Mario Klingemann for displaying shifts in rotating voronoi polygons with rounded (rather than perpendicular) edges.
 
